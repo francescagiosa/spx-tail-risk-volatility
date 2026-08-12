@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Proprietary datasets
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials and local files
+.env
+*.env
+.DS_Store
+Thumbs.db
