@@ -1,0 +1,4 @@
+Distribuzione,Parametri,Log-Likelihood,AIC,BIC,ΔAIC
+Normale,2,26992.4,-53980.8,-53966.7,2264.0
+t-Student (ν=2.88),3,28125.4,-56244.9,-56223.6,0.0
+Stable (α=1.57),4,28092.7,-56177.4,-56149.0,67.5
